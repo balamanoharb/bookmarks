@@ -18,6 +18,11 @@
 - [kdn251/interviews](https://github.com/kdn251/interviews)
 - [orrsella/soft-eng-interview-prep](https://github.com/orrsella/soft-eng-interview-prep)
 - https://trello.com/b/s2RIS23E/interview-prep-public
+- https://github.com/andreis/interview
+- https://github.com/mmnaseri/cs-review
+- https://github.com/gmac/technical-interview
+- https://github.com/arialdomartini/Back-End-Developer-Interview-Questions
+- https://www.linkedin.com/pulse/average-googler-four-weeks-study-plan-milad-naseri/
 
 # System Design Interview
 
@@ -57,6 +62,7 @@
 
 # JS
 
+- [deadcoder0904/awesome-javascript-reads](https://github.com/deadcoder0904/awesome-javascript-reads)
 - [30secondsofcode.org](https://30secondsofcode.org/)
 - [verekia/js-stack-from-scratch](https://github.com/verekia/js-stack-from-scratch)
 - [tholman/zenpen](https://github.com/tholman/zenpen)
@@ -64,11 +70,12 @@
 
 ## Algorithm
 
-- https://github.com/trekhleb/javascript-algorithms
+- [JS](https://github.com/trekhleb/javascript-algorithms)
 
 
 # Ruby & Rails
 
+- [markets/awesome-ruby](https://github.com/markets/awesome-ruby)
 - [hothero/awesome-rails-gem](https://github.com/hothero/awesome-rails-gem)
 
 # Machine Learning
@@ -92,3 +99,34 @@
 # UI Prototyping tool
 
 - https://www.youtube.com/channel/UCQsVmhSa4X-G3lHlUtejzLA/videos?utm_source=figma&utm_medium=email&utm_campaign=initial_onboard_drip_msg_one&utm_content=tutorial_videos_link
+
+## People
+
+- [Aaron Patterson](https://github.com/tenderlove)
+- [Brian Holt](https://github.com/btholt)
+- Rich Hickey
+- Dave Aprey
+
+## Blogs
+
+- http://www.phpied.com/
+- https://www.jspatterns.com/
+- http://steve-yegge.blogspot.in
+
+## Tools
+
+- http://babeljs.io/repl/
+- http://jsbin.com/?html,output
+
+## React Resources
+
+- https://learnreact.com
+- reactpatterns.com
+
+## Courses
+
+- CS224n: Natural Language Processing with Deep Learning
+
+## Tools
+
+- INKSCAPE
