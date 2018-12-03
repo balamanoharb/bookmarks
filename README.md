@@ -39,6 +39,10 @@
 - [haseebr/competitive-programming](https://github.com/haseebr/competitive-programming)
 - [yuanhui-yang/LeetCode](https://github.com/yuanhui-yang/LeetCode)
 
+# Math
+
+- https://jeremykun.com/
+
 # General
 
 - [MunGell/awesome-for-beginners](https://github.com/MunGell/awesome-for-beginners)
