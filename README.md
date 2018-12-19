@@ -87,6 +87,7 @@
 - [ZuzooVn/machine-learning-for-software-engineers](https://github.com/ZuzooVn/machine-learning-for-software-engineers)
 - [ujjwalkarn/Machine-Learning-Tutorials](https://github.com/ujjwalkarn/Machine-Learning-Tutorials)
 - [hangtwenty/dive-into-machine-learning](https://github.com/hangtwenty/dive-into-machine-learning)
+- http://en.diveintodeeplearning.org/index.html
 
 # AWS
 
@@ -126,6 +127,8 @@
 
 - https://learnreact.com
 - reactpatterns.com
+- https://www.reactiflux.com/
+- https://reactjs.org/
 
 ## Courses
 
