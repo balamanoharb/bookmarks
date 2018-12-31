@@ -64,6 +64,16 @@
 - [digital-dreamer/blockchain-programming](https://github.com/digital-dreamer/blockchain-programming)
 - [Haseeb-Qureshi/lets-build-a-blockchain](https://github.com/Haseeb-Qureshi/lets-build-a-blockchain)
 
+## Courses
+
+- https://www.redbooks.ibm.com/Redbooks.nsf/RedbookAbstracts/crse0401.html
+- udacity blockchain nanodegree
+- https://cryptozombies.io/
+
+## Books
+
+- https://github.com/bitcoinbook/bitcoinbook
+
 # JS
 
 - [deadcoder0904/awesome-javascript-reads](https://github.com/deadcoder0904/awesome-javascript-reads)
@@ -88,6 +98,17 @@
 - [ujjwalkarn/Machine-Learning-Tutorials](https://github.com/ujjwalkarn/Machine-Learning-Tutorials)
 - [hangtwenty/dive-into-machine-learning](https://github.com/hangtwenty/dive-into-machine-learning)
 - http://en.diveintodeeplearning.org/index.html
+- https://www.analyticsvidhya.com/blog/2018/10/best-machine-learning-github-repositories-reddit-threads-september-2018/
+- https://github.com/llSourcell/Learn_Machine_Learning_in_3_Months
+- https://github.com/Avik-Jain/100-Days-Of-ML-Code
+- https://github.com/josephmisiti/awesome-machine-learning
+
+## Courses
+
+- https://www.fast.ai/
+- http://diveintodeeplearning.org/
+
+
 
 # AWS
 
