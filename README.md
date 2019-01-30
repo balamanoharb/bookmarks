@@ -3,6 +3,9 @@
 - [ossu/computer-science](https://github.com/ossu/computer-science)
 - [Developer-Y/cs-video-course](https://github.com/Developer-Y/cs-video-courses)
 - [mtdvio/every-programmer-should-know](https://github.com/mtdvio/every-programmer-should-know)
+- https://teachyourselfcs.com/
+- https://github.com/functionalCS/curriculum - https://functionalcs.github.io/curriculum/#designing-systems
+- https://github.com/ForrestKnight/open-source-cs
 
 # Algorithms
 
@@ -86,7 +89,6 @@
 
 - [JS](https://github.com/trekhleb/javascript-algorithms)
 
-
 # Ruby & Rails
 
 - [markets/awesome-ruby](https://github.com/markets/awesome-ruby)
@@ -107,8 +109,6 @@
 
 - https://www.fast.ai/
 - http://diveintodeeplearning.org/
-
-
 
 # AWS
 
@@ -154,6 +154,7 @@
 ## Courses
 
 - CS224n: Natural Language Processing with Deep Learning
+- CS106b: http://web.stanford.edu/class/archive/cs/cs106b/cs106b.1162/lecture-videos.shtml
 
 ## Tools
 
