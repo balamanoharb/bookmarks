@@ -156,6 +156,10 @@
 - CS224n: Natural Language Processing with Deep Learning
 - CS106b: http://web.stanford.edu/class/archive/cs/cs106b/cs106b.1162/lecture-videos.shtml
 
+## Booklist for Datascience
+
+- https://www.amazon.com/shop/pythonprogrammer
+
 ## Tools
 
 - INKSCAPE
