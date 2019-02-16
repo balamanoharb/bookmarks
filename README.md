@@ -96,6 +96,8 @@
 
 # Machine Learning
 
+- https://www.amazon.com/shop/pythonprogrammer
+- https://lectures.quantecon.org/py/
 - [ZuzooVn/machine-learning-for-software-engineers](https://github.com/ZuzooVn/machine-learning-for-software-engineers)
 - [ujjwalkarn/Machine-Learning-Tutorials](https://github.com/ujjwalkarn/Machine-Learning-Tutorials)
 - [hangtwenty/dive-into-machine-learning](https://github.com/hangtwenty/dive-into-machine-learning)
@@ -155,10 +157,6 @@
 
 - CS224n: Natural Language Processing with Deep Learning
 - CS106b: http://web.stanford.edu/class/archive/cs/cs106b/cs106b.1162/lecture-videos.shtml
-
-## Booklist for Datascience
-
-- https://www.amazon.com/shop/pythonprogrammer
 
 ## Tools
 
